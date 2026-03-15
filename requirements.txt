@@ -1,0 +1,12 @@
+fastapi
+pydantic
+elasticsearch
+torch
+transformers
+pyyaml
+sqlalchemy
+# FlagEmbedding
+pytest
+httpx
+pdfplumber
+openai
